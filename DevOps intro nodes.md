@@ -52,3 +52,15 @@ Deploy - Apache/Tomcat, Docker, Kubernets
 
  - It is a version control repository
 
+
+
+Configure Git hub accounts
+
+
+
+Git config --global user.name "name"
+
+Git config --global user.email "email address"
+
+
+
